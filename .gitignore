@@ -5,6 +5,7 @@ build/
 dist/
 wheels/
 *.egg-info
+.idea
 
 # Virtual environments
 .venv
@@ -13,3 +14,4 @@ wheels/
 .env
 
 CLAUDE.md
+
